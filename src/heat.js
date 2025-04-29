@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 document.addEventListener('DOMContentLoaded', async () => {
   const dataYear = await loadHeatData()
-  const CountryReference = await d3.json('./../public/data/standardCountries.json')
+  const CountryReference = await d3.json('public/data/standardCountries.json')
   await standardNames(CountryReference, dataYear)
   console.log(CountryReference)
   const yearSelector = document.getElementById('yearSelector')
@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   async function loadHeatData () {
     try {
-      const response = await fetch('http://127.0.0.1:3000/dataYear')
+      const response = await fetch('public/data/dataYear.json')
       if (!response.ok) {
         throw new Error('Network response was not ok')
       }
