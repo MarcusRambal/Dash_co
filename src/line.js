@@ -7,13 +7,13 @@ document.addEventListener('DOMContentLoaded', async () => {
   // Cargar lista de países
   async function loadCountries () {
     try {
-      const response = await fetch('../public/data/countries.json')
+      const response = await fetch('public/data/countries.json')
       if (!response.ok) {
         throw new Error('Network response was not ok')
       }
 
       const countries = await response.json()
-      console.log(countries)
+      // console.log(countries)
 
       container.innerHTML = ''
 
@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     try {
       const data = await Promise.all(
         selectedCountries.map(async country => {
-          const response = await fetch(`../public/data/countries/${country}.json`)
+          const response = await fetch(`public/data/countries/${country}.json`)
           if (!response.ok) throw new Error(`No se pudo cargar ${country}.json`)
           const countryData = await response.json()
           return {
