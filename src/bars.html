@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BarsGraph</title>
+    <link rel="stylesheet" href="bars.css">
+</head>
+<body>
+    <header class="header" id="header">
+        <h1>Dashco</h1>
+        <a href="index.html">Volver a la página principal</a>
+    </header>
+
+    <div id="barChartContainer" style="width: 100%; overflow-x: auto;">
+      <div id = "barControls">
+        <select id="barYearSelector"></select>
+        <button id = "showMore">Mostrar mas</button>
+      </div> <!-- barControls -->
+      
+      <svg id="barChart" height="500"></svg>
+      <div id="tooltip" style="position: absolute; opacity: 0; background: #161515; border: 1px solid #ccc; padding: 5px; border-radius: 3px; pointer-events: none;"></div>
+      </div> <!-- barChartContainer -->
+      
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="bars.js"></script>
+</body>
+</html>

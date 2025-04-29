@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashco</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+    <header class="header" id="header">
+        <h1>Dashco</h1>
+    </header>
+
+    <div class = "IntrodutionContainer">
+        <h2>Welcome to Dashco</h2>
+        <p>Bienvenido al dashboard de muertes por COVID-19. Esta plataforma presenta datos actualizados sobre el número de fallecimientos causados por el virus en distintas regiones del mundo. El objetivo es ofrecer una visión clara y precisa que permita entender la magnitud del impacto, identificar tendencias y apoyar la toma de decisiones informadas.
+
+            Los datos se visualizan mediante gráficos interactivos y tablas comparativas que permiten explorar la evolución diaria, semanal y acumulada de las muertes, tanto a nivel global como por país o región.</p>
+            <P>Para comenzar presiona una de las graficas!</P>
+    </div> <!-- IntrodutionContainer -->
+
+    <div class="appContainer" id="appContainer">
+            <div class = "graphContainer" id="graphContainer">
+
+    <!-- Gráfico de Barras -->
+    <div class="graphBox">
+        <img src="/assets/bars_chart.png" alt="Gráfico de Barras">
+        <h3><a href="bars.html">Gráfico de Barras</a></h3>
+        <p>Comparación de muertes por COVID en diferentes regiones.</p>
+    </div>
+
+    <!-- Gráfico de Líneas -->
+    <div class="graphBox">
+        <img src="/assets/line_chart.png" alt="Gráfico de Líneas">
+        <h3><a href="line.html">Gráfico de Líneas</a></h3>
+        <p>Evolución de muertes por COVID a lo largo del tiempo.</p>
+    </div>
+
+    <!-- Gráfico de Pastel -->
+    <div class="graphBox">
+        <img src="/assets/pie_chart.jpg" alt="Gráfico de Pastel">
+        <h3><a href="pie.html">Gráfico de Pastel</a></h3>
+        <p>Distribución de muertes por paises.</p>
+    </div>
+
+    <!-- Mapa de Calor -->
+    <div class="graphBox">
+        <img src="/assets/heatmap.png" alt="Mapa de Calor">
+        <h3><a href="heat.html">Mapa de Calor</a></h3>
+        <p>Regiones más afectadas por el COVID según la densidad de casos.</p>
+    </div>
+
+            </div> <!-- graphContainer -->
+       </div> <!-- appContainer -->
+
+    <div class="footer" id="footer">
+        <p>Dashco</p>
+        <a href="https://github.com/MarcusRambal/DashCo" target="_blank" rel="noopener noreferrer">Github</a>
+        <p>&copy; 2025 Dashco. Todos los derechos reservados.</p>
+
+    </div> <!-- footer -->
+
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="renderer.js"></script>
+</body>
+</html>
+
+    
+  

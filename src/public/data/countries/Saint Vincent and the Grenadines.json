@@ -1,0 +1,257 @@
+{
+  "country": "Saint Vincent and the Grenadines",
+  "data": [
+    {
+      "day": "2020-01-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-02-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-03-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-04-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-05-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-06-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-07-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-08-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-09-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-10-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-11-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-12-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2021-01-01",
+      "daily_deaths": 19.595932483673096
+    },
+    {
+      "day": "2021-02-01",
+      "daily_deaths": 44.79070210456848
+    },
+    {
+      "day": "2021-03-01",
+      "daily_deaths": 33.593027114868164
+    },
+    {
+      "day": "2021-04-01",
+      "daily_deaths": 4.1991283893585205
+    },
+    {
+      "day": "2021-05-01",
+      "daily_deaths": 15.396804094314575
+    },
+    {
+      "day": "2021-06-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2021-07-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2021-08-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2021-09-01",
+      "daily_deaths": 53.18895864486694
+    },
+    {
+      "day": "2021-10-01",
+      "daily_deaths": 453.50585317611694
+    },
+    {
+      "day": "2021-11-01",
+      "daily_deaths": 99.37936925888062
+    },
+    {
+      "day": "2021-12-01",
+      "daily_deaths": 72.7848916053772
+    },
+    {
+      "day": "2022-01-01",
+      "daily_deaths": 110.57704472541808
+    },
+    {
+      "day": "2022-02-01",
+      "daily_deaths": 130.1729769706726
+    },
+    {
+      "day": "2022-03-01",
+      "daily_deaths": 1.3997094631195068
+    },
+    {
+      "day": "2022-04-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2022-05-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2022-06-01",
+      "daily_deaths": 50.389540672302246
+    },
+    {
+      "day": "2022-07-01",
+      "daily_deaths": 37.79215478897095
+    },
+    {
+      "day": "2022-08-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2022-09-01",
+      "daily_deaths": 9.797966241836548
+    },
+    {
+      "day": "2022-10-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2022-11-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2022-12-01",
+      "daily_deaths": 27.99418878555298
+    },
+    {
+      "day": "2023-01-01",
+      "daily_deaths": 40.5915744304657
+    },
+    {
+      "day": "2023-02-01",
+      "daily_deaths": 2.7994189262390137
+    },
+    {
+      "day": "2023-03-01",
+      "daily_deaths": 6.998547315597534
+    },
+    {
+      "day": "2023-04-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-05-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-06-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-07-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-08-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-09-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-10-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-11-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-12-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-01-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-02-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-03-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-04-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-05-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-06-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-07-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-08-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-09-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-10-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-11-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-12-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2025-01-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2025-02-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2025-03-01",
+      "daily_deaths": 0
+    }
+  ]
+}

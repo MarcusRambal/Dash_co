@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PieGraph</title>
+    <link rel="stylesheet" href="pie.css">
+</head>
+<body>
+    <header class="header" id="header">
+        <h1>Dashco</h1>
+        <a href="index.html">Volver a la página principal</a>
+        <!--real time button here-->
+    </header>
+
+    <div id="pieChartContainer" style="width: 100%; overflow-x: auto;">
+        <svg id="pieChart" width="500" height="500"></svg>
+      </div>
+      
+      <select id="pieYearSelector"></select>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="pie.js"></script>
+</body>
+</html>

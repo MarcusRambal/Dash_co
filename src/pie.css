@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #121212;
+  color: #eaeaea;
+}
+
+.header {
+  background-color: #3c1361;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header h1 {
+  font-size: 2rem;
+}
+
+.header a {
+  color: #fff;
+  background-color: #9b5de5;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+.header a:hover {
+  background-color: #6a0dad;
+}
+
+.chart-container {
+  position: relative;
+  max-width: 800px;
+  margin: 40px auto;
+}
+
+#pieYearSelector {
+  position: absolute;
+  top: 120px;
+  right: 180px;
+  padding: 8px 18px;
+  font-size: 1rem;
+  border: 2px solid #6a0dad;
+  border-radius: 8px;
+  background-color: #2b2b2b;
+  color: #e4d4ff;
+  transition: all 0.3s ease;
+  z-index: 1;
+}
+
+#pieYearSelector:hover {
+  background-color: #3d1d5c;
+  border-color: #a770ff;
+}
+
+#pieChart {
+  display: block;
+  margin: 60px auto 0 auto;
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HeatGraph</title>
+    <link rel="stylesheet" href="heat.css">
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+</head>
+<body>
+    <header class="header" id="header">
+        <h1>Dashco</h1>
+        <a href="index.html">Volver a la página principal</a>
+    </header>
+
+    <div class="HeatContainer" id="HeatContainer">
+        <div id = "HeatControls">
+            <select id="yearSelector"></select>
+          </div> <!--HeatControls-->
+        <div id="HeatChart"></div>
+        <div id="tooltip" class="tooltip" style="display: none;"></div>
+
+    </div> <!-- HeatContainer -->
+    <script src="heat.js"></script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LineGraph</title>
+    <link rel="stylesheet" href="line.css">
+</head>
+<body>
+    <header class="header" id="header">
+        <h1>Dashco</h1>
+        <a href="index.html">Volver a la página principal</a>
+    </header>
+
+    <div class="LineContainer" id="LineContainer">
+        <div id="country-selection">
+            <h3>Selecciona países</h3>
+            <input type="text" id="country-search" placeholder="Buscar país..." />
+            <div id="country-list"></div>
+            <button id="update-chart">Actualizar gráfico</button>
+        </div> <!-- country-selection -->
+
+        <div id="LineChart">
+            <h2>Gráfico de Lineas</h2>
+            <p>Comparación de muertes por COVID en diferentes regiones.</p>
+        </div><!-- LineChart -->
+    </div> <!-- LineContainer -->
+
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="line.js"></script>
+</body>
+</html>

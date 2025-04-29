@@ -1,0 +1,257 @@
+{
+  "country": "Central African Republic",
+  "data": [
+    {
+      "day": "2020-01-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-02-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-03-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-04-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-05-01",
+      "daily_deaths": 0.22417587041854856
+    },
+    {
+      "day": "2020-06-01",
+      "daily_deaths": 8.210441537201405
+    },
+    {
+      "day": "2020-07-01",
+      "daily_deaths": 3.138462245464325
+    },
+    {
+      "day": "2020-08-01",
+      "daily_deaths": 0.4203297570347786
+    },
+    {
+      "day": "2020-09-01",
+      "daily_deaths": 0.16813190281391144
+    },
+    {
+      "day": "2020-10-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2020-11-01",
+      "daily_deaths": 0.19615388661623
+    },
+    {
+      "day": "2020-12-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2021-01-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2021-02-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2021-03-01",
+      "daily_deaths": 1.5972530990839005
+    },
+    {
+      "day": "2021-04-01",
+      "daily_deaths": 3.418682068586349
+    },
+    {
+      "day": "2021-05-01",
+      "daily_deaths": 1.821428954601288
+    },
+    {
+      "day": "2021-06-01",
+      "daily_deaths": 0.028021983802318573
+    },
+    {
+      "day": "2021-07-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2021-08-01",
+      "daily_deaths": 0.39230777323246
+    },
+    {
+      "day": "2021-09-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2021-10-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2021-11-01",
+      "daily_deaths": 0.19615388661623
+    },
+    {
+      "day": "2021-12-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2022-01-01",
+      "daily_deaths": 1.7653850317001345
+    },
+    {
+      "day": "2022-02-01",
+      "daily_deaths": 0.58846165984869
+    },
+    {
+      "day": "2022-03-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2022-04-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2022-05-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2022-06-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2022-07-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2022-08-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2022-09-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2022-10-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2022-11-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2022-12-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-01-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-02-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-03-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-04-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-05-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-06-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-07-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-08-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-09-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-10-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-11-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2023-12-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-01-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-02-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-03-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-04-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-05-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-06-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-07-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-08-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-09-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-10-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-11-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2024-12-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2025-01-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2025-02-01",
+      "daily_deaths": 0
+    },
+    {
+      "day": "2025-03-01",
+      "daily_deaths": 0
+    }
+  ]
+}
