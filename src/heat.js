@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const dataYear = await loadHeatData()
   const CountryReference = await d3.json('public/data/standardCountries.json')
   await standardNames(CountryReference, dataYear)
-  console.log(CountryReference)
+  // console.log(CountryReference)
   const yearSelector = document.getElementById('yearSelector')
   const width = 1200
   const height = 600
@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   const countriesData = await d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json')
   const countries = topojson.feature(countriesData, countriesData.objects.countries)
-  console.log(countries)
+  // console.log(countries)
   g.selectAll('path').data(countries.features).enter().append('path')
     .attr('class', 'country')
     .attr('d', path)
@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   })
 
   function updateMapByYear (dataForYear) {
-    console.log(dataForYear)
+    // console.log(dataForYear)
     const maxDeaths = d3.max(Object.values(dataForYear))
     dynamicColorScale = d3.scaleSequential(d3.interpolateReds).domain([0, maxDeaths])
     const getDeaths = d => {
