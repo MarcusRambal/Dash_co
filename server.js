@@ -147,7 +147,7 @@ db.query('SELECT DISTINCT entity FROM casos_covid', (err, results) => {
   if (!err) {
     const data = results.map(row => row.entity)
     fs.writeFileSync(path.join(__dirname, '/data/countries.json'), JSON.stringify(data, null, 2))
-    console.log('✅ Archivo countries.json generado')
+    console.log('Archivo countries.json generado')
   }
 })
 
@@ -179,7 +179,7 @@ db.query('SELECT DISTINCT entity FROM casos_covid', (err, results) => {
           path.join(exportDir, `${country}.json`),
           JSON.stringify(formatted, null, 2)
         )
-        console.log(`✅ Exportado: ${country}`)
+        console.log(`Exportado: ${country}`)
       }
     })
   })
